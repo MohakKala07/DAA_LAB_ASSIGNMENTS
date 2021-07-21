@@ -12,7 +12,7 @@ int main()
 {
     int t,n,k,step;
     int c=0,prev=0,flag=0;
-    int arr[100];
+    int arr[100]; 
     cin>>t;
     while(t)
     {
