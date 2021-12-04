@@ -24,7 +24,7 @@ int main()
     cout<<"Enter second array ";
     for(j=0;j<N2;j++)
         {
-            cin>>arr1[j];
+            cin>>arr2[j];
         }
         
     i=0,j=0;
