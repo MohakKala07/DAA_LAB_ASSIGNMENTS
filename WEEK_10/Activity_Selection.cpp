@@ -32,3 +32,4 @@ int main()
     }
 	printMaxActivities(s, f, n);
 	return 0;
+}
